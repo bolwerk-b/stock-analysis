@@ -7,5 +7,5 @@ The purpose of this script is to print out the Total Daily Volume for each ticke
 
 2018 ![Stock_Analysis_of_2018](VBA_Challenge_2018.PNG)
 
-##Summary
+## Summary
 By refactoring this code, we were able to make the code run much faster. A disadvantage to refactoring would be that it can be time consuming and may potentially break your code.
