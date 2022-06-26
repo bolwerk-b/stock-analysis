@@ -4,6 +4,7 @@ The purpose of this script is to print out the Total Daily Volume for each ticke
 
 ## **Results 2017 vs 2018**
 2017 ![Stock_Analysis_of_2017](VBA_Challenge_2017.PNG)
+
 2018 ![Stock_Analysis_of_2018](VBA_Challenge_2018.PNG)
 
 ##Summary
